@@ -1,0 +1,3 @@
+- Nodemon: reset code không cần  Ctrl C
+- Morgan :  Để hiện  thông báo đã gửi về Server chưa
+- 
