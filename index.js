@@ -6,7 +6,7 @@ const morgan = require("morgan");
 app.use(morgan("combined"));
 //route
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  <h1>Hello World</h1>;
 });
 
 app.listen(port, () => {
